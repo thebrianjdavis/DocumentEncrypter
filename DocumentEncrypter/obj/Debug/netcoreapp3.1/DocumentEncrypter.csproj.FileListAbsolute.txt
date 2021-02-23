@@ -1,0 +1,13 @@
+C:\Users\Student\source\repos\DocumentEncrypter\DocumentEncrypter\obj\Debug\netcoreapp3.1\DocumentEncrypter.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\DocumentEncrypter\DocumentEncrypter\obj\Debug\netcoreapp3.1\DocumentEncrypter.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\DocumentEncrypter\DocumentEncrypter\obj\Debug\netcoreapp3.1\DocumentEncrypter.AssemblyInfo.cs
+C:\Users\Student\source\repos\DocumentEncrypter\DocumentEncrypter\obj\Debug\netcoreapp3.1\DocumentEncrypter.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\DocumentEncrypter\DocumentEncrypter\bin\Debug\netcoreapp3.1\DocumentEncrypter.exe
+C:\Users\Student\source\repos\DocumentEncrypter\DocumentEncrypter\bin\Debug\netcoreapp3.1\DocumentEncrypter.deps.json
+C:\Users\Student\source\repos\DocumentEncrypter\DocumentEncrypter\bin\Debug\netcoreapp3.1\DocumentEncrypter.runtimeconfig.json
+C:\Users\Student\source\repos\DocumentEncrypter\DocumentEncrypter\bin\Debug\netcoreapp3.1\DocumentEncrypter.runtimeconfig.dev.json
+C:\Users\Student\source\repos\DocumentEncrypter\DocumentEncrypter\bin\Debug\netcoreapp3.1\DocumentEncrypter.dll
+C:\Users\Student\source\repos\DocumentEncrypter\DocumentEncrypter\bin\Debug\netcoreapp3.1\DocumentEncrypter.pdb
+C:\Users\Student\source\repos\DocumentEncrypter\DocumentEncrypter\obj\Debug\netcoreapp3.1\DocumentEncrypter.dll
+C:\Users\Student\source\repos\DocumentEncrypter\DocumentEncrypter\obj\Debug\netcoreapp3.1\DocumentEncrypter.pdb
+C:\Users\Student\source\repos\DocumentEncrypter\DocumentEncrypter\obj\Debug\netcoreapp3.1\DocumentEncrypter.genruntimeconfig.cache
